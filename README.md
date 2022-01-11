@@ -3,7 +3,7 @@
 
 ### Deploying To Heroku ⚙
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dfslammirror/Video-Encoder-Bot-V3)
 
 ### Deploying To Railway ⚙
 
